@@ -1,0 +1,6 @@
+projectKey=com.privat:customerprofileservice
+serverUrl=http://localhost:9000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:9000/dashboard?id=com.privat%3Acustomerprofileservice
+ceTaskId=AXTabF4C89g8HpN1oEQF
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXTabF4C89g8HpN1oEQF
