@@ -1,0 +1,6 @@
+projectKey=com.privat:customerdiligence
+serverUrl=http://localhost:9000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:9000/dashboard?id=com.privat%3Acustomerdiligence
+ceTaskId=AXTaUcGg89g8HpN1oEPB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXTaUcGg89g8HpN1oEPB
